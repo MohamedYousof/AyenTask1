@@ -81,6 +81,8 @@ def get_doc_by_name(user_token, filename):
 
 # upload_doc('1dad19f63f4f784f0aa5af6d991d867b8fe67776', 'manage.py')
 
-get_doc_by_name('1dad19f63f4f784f0aa5af6d991d867b8fe67776', 'manage.py')
+# get_doc_by_name('1dad19f63f4f784f0aa5af6d991d867b8fe67776', 'manage.py')
 
 # get_docs('1dad19f63f4f784f0aa5af6d991d867b8fe67776')
+
+# logout('1dad19f63f4f784f0aa5af6d991d867b8fe67776')
